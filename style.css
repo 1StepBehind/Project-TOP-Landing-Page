@@ -1,38 +1,54 @@
-* {
-    background-color: brown;
-}
+
 
 /*header element */
+.head-container{
+    background-color: grey;
+    display: flex;
+}
 
 /* end */
 
 
 
 /* first element */
+.first {
+    background-color: aqua;
+}
 
 /* end */
 
 
 
 /* second element */
-
+.second {
+    background-color: bisque;
+}
 /* end */
 
 
 
 /* third element */
+.third {
+    background-color: blueviolet;
+}
 
 /* end */
 
 
 
 /* fourth element */
+.forth {
+    background-color: yellow;
+}
 
 /* end */
 
 
 
 /* footer */
+footer {
+    background-color: grey;
+}
 
 /* end */
 
