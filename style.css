@@ -51,21 +51,24 @@ li {
 .first {
     background-color: #1F2937;
     display: flex;
-    /* align-items: center; */
-    justify-content: space-evenly;
+    align-items: center;
+    justify-content: space-between;
+    padding-block: 150px;
+    padding-inline: 150px;
 }
 .img-cont {
-    height: 500px;
-    width: 500px;
+    /* height: 250px; */
+    /* width: 280px; */
     
 }
 
 img {
-    width: 300px;
+    width: 800px;
+    height: 300px;
 }
 
 .left-text {
-    height: 500px;
+    /* height: 500px; */
     width: 500px;
     
 
@@ -75,17 +78,22 @@ img {
     color: #f9faf8;
     font-size: 48px;
     font-weight: bolder;
+    margin: 0;
+    padding: 0;
  
 }
 /* main hero seletor maybe? */
 .hero {
     color:#f9faf8;
+    font-size: 18px;
 
 }
 
 .sign-up {
     color: #f9faf8;
     background-color: #3882f6;
+    font-size: 18px;
+    font-weight: bold;
 
 }
 /* end */
