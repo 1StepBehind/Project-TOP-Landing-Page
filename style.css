@@ -171,6 +171,11 @@ li {
     background-color: yellow;
 }
 
+.call-to { 
+    border: 5px solid blue;
+
+}
+
 /* end */
 
 
