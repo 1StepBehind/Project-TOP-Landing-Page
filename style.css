@@ -169,10 +169,24 @@ li {
 /* fourth element */
 .fourth {
     background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+
 }
 
 .call-to { 
     border: 5px solid blue;
+    
+
+}
+
+.sign-up2 {
+    border: 5px solid white ;
+    background-color: #3882f6;
+    font-size: 18px;
+    font-weight: bold;
+    color: #f9faf8;
+    
 
 }
 
