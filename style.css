@@ -172,18 +172,20 @@ li {
     display: flex;
     justify-content: space-around;
     padding-block: 100px;
+    padding-inline: 150px;
 
 }
 
 .call-to { 
-    width: 1700px;
+    width: 100%;
     color: #f9faf8;
     background-color:#3882f6 ;
     border: 5px solid blue;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding-block: 25px;
-    padding-inline: 100px;
+    padding-inline: 170px;
     gap: 500px;
     border-radius: 15px;
     
